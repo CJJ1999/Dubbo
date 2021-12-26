@@ -7,4 +7,6 @@ public interface ServiceWeather {
     int add();
     int delete();
     int updateOfMaster();
+    int updateOfFix();
+
 }
